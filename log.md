@@ -13,6 +13,6 @@
 **Link to work:** Personal portfolio commit: https://github.com/anadebarros/anadebarros.github.io/commit/7029e83307d92f1094589ec1e859e491357a69ee
 
 FreeCodeCamp progress:
-
+https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
 
 
