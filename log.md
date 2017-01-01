@@ -5,7 +5,7 @@
 **Today's Progress**: 
 <ul>
 <li> Worked on my personal portfolio page fixing some CSS, HTML, and adding boostrap and media queries for responsiveness.</li>
-<li> Advanced on FreeCodeCamp Bootstrap section of Freont End Development certification </li>
+<li> Advanced on FreeCodeCamp Bootstrap section of Front End Development certification </li>
 <li> Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a> and JavaScript: The Definitive Guide </li>
 
 **Thoughts:** Was a good starting day. Did not encounter many problems.
