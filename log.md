@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1st 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+<ul>
+<li> Worked on my personal portfolio page fixing some CSS, HTML, and adding boostrap and media queries for responsiveness.</li>
+<li> Advanced on FreeCodeCamp Bootstrap section of Freont End Development certification </li>
+<li> Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a> and JavaScript: The Definitive Guide </li>
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Was a good starting day. Did not encounter many problems.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Personal portfolio commit: https://github.com/anadebarros/anadebarros.github.io/commit/7029e83307d92f1094589ec1e859e491357a69ee
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+FreeCodeCamp progress:
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
