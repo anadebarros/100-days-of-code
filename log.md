@@ -15,4 +15,20 @@
 FreeCodeCamp progress:
 https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
 
+### Day 2: January 2nd 2017
+
+**Today's Progress**: 
+<ul>
+<li> Added some Javascript for automatic updates on my personal portfolio and my Todo List web app</li>
+<li> Advanced on FreeCodeCamp Bootstrap section of Front End Development certification </li>
+
+**Thoughts:** Did not have much time to code on my own projects but had 3 hours of class learning Javascript, so I'm guessing that counts :p
+
+**Link to work:** Personal portfolio commit: https://github.com/anadebarros/anadebarros.github.io/commit/0f19489d1a9658e64251158a6d6077ffffd180ff
+
+Web App commit: https://github.com/anadebarros/To-Do-List/commit/5857a2ec222cf9b07af1180bbc234f5121d4c4ce
+
+FreeCodeCamp progress:
+https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jquery-selectors
+
 
