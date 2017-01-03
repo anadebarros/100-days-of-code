@@ -31,4 +31,15 @@ Web App commit: https://github.com/anadebarros/To-Do-List/commit/5857a2ec222cf9b
 FreeCodeCamp progress:
 https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jquery-selectors
 
+### Day 3: January 3st 2017
 
+**Today's Progress**: 
+<ul>
+<li> Found tutorial from Chris DeLeon on Udemy and learned how to work with canvas and 2d to make an arcade tennis game.</li>
+<li> Wrote more than 50% of the code, expect to finish tomorrow </li>
+<li> Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a></li>
+
+**Thoughts:** Loved finding a tutorial for JS based games. I think I found something I'll want to dig in deeper.
+
+**Link to work:** 
+https://github.com/anadebarros/tennis_game/blob/master/index.html
