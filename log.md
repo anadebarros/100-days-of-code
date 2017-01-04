@@ -43,3 +43,17 @@ https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jq
 
 **Link to work:** 
 https://github.com/anadebarros/tennis_game/blob/master/index.html
+
+### Day 4: January 4th 2017
+
+**Today's Progress**: 
+<ul>
+<li> Finished FreeCodeCamp jQuery section of Front End Development certification </li>
+<li> Continued tutorial on how to work with canvas and 2d to make an arcade tennis game</li>
+
+**Thoughts:** Today I had my web and mobile development class after work, so there is not much time left to code.However, I do code during my classes!
+
+**Link to work:** 
+
+FreeCodeCamp progress:
+Tennis_game:
