@@ -49,6 +49,7 @@ https://github.com/anadebarros/tennis_game/blob/master/index.html
 **Today's Progress**: 
 <ul>
 <li> Finished FreeCodeCamp jQuery section of Front End Development certification </li>
+<li> Developed a random sentence generator using JS (with optional onclick or setInterval functions)</li>
 <li> Continued tutorial on how to work with canvas and 2d to make an arcade tennis game</li>
 
 **Thoughts:** Today I had my web and mobile development class after work, so there is not much time left to code.However, I do code during my classes!
@@ -56,4 +57,5 @@ https://github.com/anadebarros/tennis_game/blob/master/index.html
 **Link to work:** 
 
 FreeCodeCamp progress:https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects
-Tennis_game:
+Tennis_game: 
+Word Generator: https://codepen.io/anadebarros/pen/bgNEPp
