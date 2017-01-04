@@ -55,5 +55,5 @@ https://github.com/anadebarros/tennis_game/blob/master/index.html
 
 **Link to work:** 
 
-FreeCodeCamp progress:
+FreeCodeCamp progress:https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects
 Tennis_game:
