@@ -59,3 +59,16 @@ https://github.com/anadebarros/tennis_game/blob/master/index.html
 FreeCodeCamp progress:https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects
 Tennis_game: https://github.com/anadebarros/tennis_game/commit/ace3b20e4c0c8086d74d166eddf03e6193c5aa20
 Word Generator: https://codepen.io/anadebarros/pen/bgNEPp
+
+### Day 5: January 5th 2017
+
+**Today's Progress**: 
+<ul>
+<li> Continued tutorial on how to work with canvas and 2d to make an arcade tennis game</li>
+<li> Finished chapter on Scopes and Closures of YDKJS </li>
+
+**Thoughts:** Worked a lot on the tennis game, on its CSS and on altering some small Javascript shannanigans which I'm really proud of!
+
+**Link to work:** 
+
+Tennis_game: https://github.com/anadebarros/tennis_game/commit/cae7512345411c749109b28c63893b6e8bd2b57c
