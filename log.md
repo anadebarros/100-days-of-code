@@ -72,3 +72,15 @@ Word Generator: https://codepen.io/anadebarros/pen/bgNEPp
 **Link to work:** 
 
 Tennis_game: https://github.com/anadebarros/tennis_game/commit/cae7512345411c749109b28c63893b6e8bd2b57c
+
+### Day 6: January 6th 2017
+
+**Today's Progress**: 
+<ul>
+<li> Developed a small Javascript algorithm that uses canvas to visualize progression of a race subscription</li>
+
+**Thoughts:** For the first time I had the idea, envisioned and designed a full on JS algorithm by myself and it worked! Really proud and I'll remember this for a long time to come!
+
+**Link to work:** 
+https://github.com/anadebarros/BTT_goal/commit/64f1bdf6f5f68346d2e6908762df929940c77299
+
