@@ -84,3 +84,13 @@ Tennis_game: https://github.com/anadebarros/tennis_game/commit/cae7512345411c749
 **Link to work:** 
 https://github.com/anadebarros/BTT_goal/commit/64f1bdf6f5f68346d2e6908762df929940c77299
 
+### Day 7: January 7th 2017
+
+**Today's Progress**: 
+<ul>
+<li> Finished my JS arcade game on canvas!</li>
+
+**Thoughts:** Liked this tutorial so much that I bought the game programming lessons at udemy to keep learning more!
+
+**Link to work:** 
+https://github.com/anadebarros/tennis_game/commit/afc50b40fbb10ee4a3366e52d730ba4b23adcc85
