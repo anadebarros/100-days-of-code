@@ -94,3 +94,22 @@ https://github.com/anadebarros/BTT_goal/commit/64f1bdf6f5f68346d2e6908762df92994
 
 **Link to work:** 
 https://github.com/anadebarros/tennis_game/commit/afc50b40fbb10ee4a3366e52d730ba4b23adcc85
+
+### Day 8: January 7th 2017
+
+**Today's Progress**: 
+<ul>
+<li> Finished Tribute Page, parto of FreeCodeCamp's Front End Certification</li>
+<li> Finished Porfolio Page, parto of FreeCodeCamp's Front End Certification</li>
+<li> Started FreeCodeCamp's Javascript section</li>
+<li> Started Udemy's course of Game Programming, initiated Brick Game</li>
+
+**Thoughts:** It was a productive day
+**Link to work:**
+Tribute Page: https://github.com/anadebarros/freeCodeCampTibutePage
+FCC Javascript section: https://www.freecodecamp.com/challenges/constructing-strings-with-variables
+Brick_Game: https://github.com/anadebarros/brick_game/commit/c18b7495b76465122d474b9aba106ac0194ed90c
+
+
+**Link to work:** 
+https://github.com/anadebarros/tennis_game/commit/afc50b40fbb10ee4a3366e52d730ba4b23adcc85
