@@ -95,7 +95,7 @@ https://github.com/anadebarros/BTT_goal/commit/64f1bdf6f5f68346d2e6908762df92994
 **Link to work:** 
 https://github.com/anadebarros/tennis_game/commit/afc50b40fbb10ee4a3366e52d730ba4b23adcc85
 
-### Day 8: January 7th 2017
+### Day 8: January 8th 2017
 
 **Today's Progress**: 
 <ul>
@@ -110,6 +110,18 @@ Tribute Page: https://github.com/anadebarros/freeCodeCampTibutePage
 FCC Javascript section: https://www.freecodecamp.com/challenges/constructing-strings-with-variables
 Brick_Game: https://github.com/anadebarros/brick_game/commit/c18b7495b76465122d474b9aba106ac0194ed90c
 
+### Day 9: January 9th 2017
 
-**Link to work:** 
-https://github.com/anadebarros/tennis_game/commit/afc50b40fbb10ee4a3366e52d730ba4b23adcc85
+**Today's Progress**: 
+<ul>
+<li> Continued FreeCodeCamp's Javascript section</li>
+<li> Wrote some html elements using Vanilla Javascript</li>
+<li> Continued reading YDKJS series </li>
+<li> Started React tutorial from Free Code Camp </li>
+
+**Thoughts:** An ok day, but really tired...However, really enjoyed React's syntax JSX so far.
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/access-array-data-with-indexes
+JS exercise: https://codepen.io/anadebarros/pen/NdGOXG
+React tutorial: http://hysterical-amusement.surge.sh/
+
