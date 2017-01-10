@@ -3,10 +3,10 @@
 ### Day 1: January 1st 2017
 
 **Today's Progress**: 
-<ul>
-<li> Worked on my personal portfolio page fixing some CSS, HTML, and adding boostrap and media queries for responsiveness.</li>
-<li> Advanced on FreeCodeCamp Bootstrap section of Front End Development certification </li>
-<li> Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a> and JavaScript: The Definitive Guide </li>
+
+Worked on my personal portfolio page fixing some CSS, HTML, and adding boostrap and media queries for responsiveness.
+Advanced on FreeCodeCamp Bootstrap section of Front End Development certification
+ Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a> and JavaScript: The Definitive Guide 
 
 **Thoughts:** Was a good starting day. Did not encounter many problems.
 
@@ -18,9 +18,8 @@ https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready
 ### Day 2: January 2nd 2017
 
 **Today's Progress**: 
-<ul>
-<li> Added some Javascript for automatic updates on my personal portfolio and my Todo List web app</li>
-<li> Advanced on FreeCodeCamp Bootstrap section of Front End Development certification </li>
+Added some Javascript for automatic updates on my personal portfolio and my Todo List web app
+Advanced on FreeCodeCamp Bootstrap section of Front End Development certification
 
 **Thoughts:** Did not have much time to code on my own projects but had 3 hours of class learning Javascript, so I'm guessing that counts :p
 
@@ -34,10 +33,10 @@ https://www.freecodecamp.com/challenges/target-the-same-element-with-multiple-jq
 ### Day 3: January 3st 2017
 
 **Today's Progress**: 
-<ul>
-<li> Found tutorial from Chris DeLeon on Udemy and learned how to work with canvas and 2d to make an arcade tennis game.</li>
-<li> Wrote more than 50% of the code, expect to finish tomorrow </li>
-<li> Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a></li>
+
+Found tutorial from Chris DeLeon on Udemy and learned how to work with canvas and 2d to make an arcade tennis game.
+ Wrote more than 50% of the code, expect to finish tomorrow
+Studied Javascript with <a href="https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures">You Don't know JS "Scopes and Closures"</a>
 
 **Thoughts:** Loved finding a tutorial for JS based games. I think I found something I'll want to dig in deeper.
 
@@ -47,10 +46,10 @@ https://github.com/anadebarros/tennis_game/blob/master/index.html
 ### Day 4: January 4th 2017
 
 **Today's Progress**: 
-<ul>
-<li> Finished FreeCodeCamp jQuery section of Front End Development certification </li>
-<li> Developed a random sentence generator using JS (with optional onclick or setInterval functions)</li>
-<li> Continued tutorial on how to work with canvas and 2d to make an arcade tennis game</li>
+
+ Finished FreeCodeCamp jQuery section of Front End Development certification 
+ Developed a random sentence generator using JS (with optional onclick or setInterval functions)
+ Continued tutorial on how to work with canvas and 2d to make an arcade tennis game
 
 **Thoughts:** Today I had my web and mobile development class after work, so there is not much time left to code.However, I do code during my classes!
 
@@ -63,9 +62,9 @@ Word Generator: https://codepen.io/anadebarros/pen/bgNEPp
 ### Day 5: January 5th 2017
 
 **Today's Progress**: 
-<ul>
-<li> Continued tutorial on how to work with canvas and 2d to make an arcade tennis game</li>
-<li> Finished chapter on Scopes and Closures of YDKJS </li>
+
+Continued tutorial on how to work with canvas and 2d to make an arcade tennis game
+Finished chapter on Scopes and Closures of YDKJS
 
 **Thoughts:** Worked a lot on the tennis game, on its CSS and on altering some small Javascript shannanigans which I'm really proud of!
 
@@ -76,8 +75,8 @@ Tennis_game: https://github.com/anadebarros/tennis_game/commit/cae7512345411c749
 ### Day 6: January 6th 2017
 
 **Today's Progress**: 
-<ul>
-<li> Developed a small Javascript algorithm that uses canvas to visualize progression of a race subscription</li>
+
+Developed a small Javascript algorithm that uses canvas to visualize progression of a race subscription
 
 **Thoughts:** For the first time I had the idea, envisioned and designed a full on JS algorithm by myself and it worked! Really proud and I'll remember this for a long time to come!
 
@@ -87,8 +86,8 @@ https://github.com/anadebarros/BTT_goal/commit/64f1bdf6f5f68346d2e6908762df92994
 ### Day 7: January 7th 2017
 
 **Today's Progress**: 
-<ul>
-<li> Finished my JS arcade game on canvas!</li>
+
+Finished my JS arcade game on canvas!
 
 **Thoughts:** Liked this tutorial so much that I bought the game programming lessons at udemy to keep learning more!
 
@@ -98,11 +97,11 @@ https://github.com/anadebarros/tennis_game/commit/afc50b40fbb10ee4a3366e52d730ba
 ### Day 8: January 8th 2017
 
 **Today's Progress**: 
-<ul>
-<li> Finished Tribute Page, parto of FreeCodeCamp's Front End Certification</li>
-<li> Finished Porfolio Page, parto of FreeCodeCamp's Front End Certification</li>
-<li> Started FreeCodeCamp's Javascript section</li>
-<li> Started Udemy's course of Game Programming, initiated Brick Game</li>
+
+ Finished Tribute Page, parto of FreeCodeCamp's Front End Certification
+ Finished Porfolio Page, parto of FreeCodeCamp's Front End Certification
+ Started FreeCodeCamp's Javascript section
+ Started Udemy's course of Game Programming, initiated Brick Game
 
 **Thoughts:** It was a productive day
 **Link to work:**
@@ -113,11 +112,11 @@ Brick_Game: https://github.com/anadebarros/brick_game/commit/c18b7495b76465122d4
 ### Day 9: January 9th 2017
 
 **Today's Progress**: 
-<ul>
-<li> Continued FreeCodeCamp's Javascript section</li>
-<li> Wrote some html elements using Vanilla Javascript</li>
-<li> Continued reading YDKJS series </li>
-<li> Started React tutorial from Free Code Camp </li>
+
+ Continued FreeCodeCamp's Javascript section
+ Wrote some html elements using Vanilla Javascript
+ Continued reading YDKJS series 
+ Started React tutorial from Free Code Camp 
 
 **Thoughts:** An ok day, but really tired...However, really enjoyed React's syntax JSX so far.
 **Link to work:**
