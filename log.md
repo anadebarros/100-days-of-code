@@ -124,3 +124,14 @@ FCC Javascript section:https://www.freecodecamp.com/challenges/access-array-data
 JS exercise: https://codepen.io/anadebarros/pen/NdGOXG
 React tutorial: http://hysterical-amusement.surge.sh/
 
+### Day 10: January 10th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section
+ Continued reading YDKJS series 
+
+**Thoughts:** Very tired today...my brain wanted to continue but had to do an extra effort for motivation...also really exhausted with full time job that I hate..:( it consumes me...
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/comparison-with-the-greater-than-or-equal-to-operator
+
