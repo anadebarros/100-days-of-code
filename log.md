@@ -135,3 +135,15 @@ React tutorial: http://hysterical-amusement.surge.sh/
 **Link to work:**
 FCC Javascript section:https://www.freecodecamp.com/challenges/comparison-with-the-greater-than-or-equal-to-operator
 
+### Day 11: January 11th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section
+ Wrote a login keyboard with Vanilla Javascript in web development classes
+
+**Thoughts:** I wish I had more time to study...I am trying to resist the temptation of learning React before I get my javascript solid...
+
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/returning-boolean-values-from-functions
+Codepen login keyboard: https://codepen.io/anadebarros/pen/KazdGy
