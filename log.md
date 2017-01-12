@@ -147,3 +147,15 @@ FCC Javascript section:https://www.freecodecamp.com/challenges/comparison-with-t
 **Link to work:**
 FCC Javascript section:https://www.freecodecamp.com/challenges/returning-boolean-values-from-functions
 Codepen login keyboard: https://codepen.io/anadebarros/pen/KazdGy
+
+### Day 12: January 12th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section
+
+**Thoughts:** Met a friend I hadn't seen for a long time. Really needed that. So did not have much time to practice although I studied and coded some javascript.
+
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/accessing-nested-objects
+
