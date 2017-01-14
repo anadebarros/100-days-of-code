@@ -159,3 +159,15 @@ Codepen login keyboard: https://codepen.io/anadebarros/pen/KazdGy
 **Link to work:**
 FCC Javascript section:https://www.freecodecamp.com/challenges/accessing-nested-objects
 
+### Day 13: January 13th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section
+ Started learning Ruby and RoR, along with the command line
+
+**Thoughts:** I decided to try RoR and really liked it! Ruby is a language that is easy to grasp. I'm jut afraid I won't have time for everything but i'll keep this as my little side project I'll do while I continue my journey with Javascript. Maybe in some months without even noticing I can actually say I know ruby and Ror!
+
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/profile-lookup
+
