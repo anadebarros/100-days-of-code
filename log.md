@@ -171,3 +171,18 @@ FCC Javascript section:https://www.freecodecamp.com/challenges/accessing-nested-
 **Link to work:**
 FCC Javascript section:https://www.freecodecamp.com/challenges/profile-lookup
 
+### Day 14: January 14th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section --->finished frst section
+ Started learning learning React on CodeAcademy
+ Learned about Node.js and all the dependencies: npm, Homebrew, webpack, babel, etc etc
+
+**Thoughts:** With what I learnt from RoR I went and adventured myself with Node.Js and was much easier to grasp!Will have to keep digging deeper on that part, but I'm happy that I managed to install all of the million things one needs to do in the beginnind through the command line (I kept getting errors but managed to fixed them all, really proud),
+React is a tool I'll be using a lot I can sense it. I like the concept so far.
+
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables
+React CodeAcademy:https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-event-listeners?action=lesson_resume
+
