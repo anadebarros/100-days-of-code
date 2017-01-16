@@ -186,3 +186,16 @@ React is a tool I'll be using a lot I can sense it. I like the concept so far.
 FCC Javascript section:https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables
 React CodeAcademy:https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-event-listeners?action=lesson_resume
 
+### Day 15: January 14th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section ---> started algorithms challenge
+ Continues React course CodeAcademy
+
+**Thoughts:** marathon...algorithm challenges in FCC are really hard...I always need to research and get help for some points.. :( I can only imagine what's coming next.
+
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
+React CodeAcademy:https://www.codecademy.com/learn/react-101
+
