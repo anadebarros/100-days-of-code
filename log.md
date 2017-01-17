@@ -213,3 +213,16 @@ I also goofed around the web today to check some hello worlds from other program
 FCC Javascript section:https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
 React CodeAcademy:https://www.codecademy.com/learn/react-101
 
+### Day 16: January 16th 2017
+
+**Today's Progress**: 
+Studyed react;
+Learned more hacker things with command line;
+Looked again at ruby and rails....I think I'll invest. 
+
+
+**Thoughts:** RoR? Should I go there?...Should I?..
+
+**Link to work:**
+Codepen: http://codepen.io/anadebarros/pen/XpNPLx
+
