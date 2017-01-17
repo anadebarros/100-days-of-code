@@ -213,7 +213,7 @@ I also goofed around the web today to check some hello worlds from other program
 FCC Javascript section:https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
 React CodeAcademy:https://www.codecademy.com/learn/react-101
 
-### Day 16: January 16th 2017
+### Day 17: January 17th 2017
 
 **Today's Progress**: 
 Studyed react;
