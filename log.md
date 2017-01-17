@@ -186,7 +186,7 @@ React is a tool I'll be using a lot I can sense it. I like the concept so far.
 FCC Javascript section:https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables
 React CodeAcademy:https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-event-listeners?action=lesson_resume
 
-### Day 15: January 14th 2017
+### Day 15: January 15th 2017
 
 **Today's Progress**: 
 
@@ -194,6 +194,20 @@ React CodeAcademy:https://www.codecademy.com/courses/react-101/lessons/react-jsx
  Continues React course CodeAcademy
 
 **Thoughts:** marathon...algorithm challenges in FCC are really hard...I always need to research and get help for some points.. :( I can only imagine what's coming next.
+
+**Link to work:**
+FCC Javascript section:https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
+React CodeAcademy:https://www.codecademy.com/learn/react-101
+
+### Day 16: January 16th 2017
+
+**Today's Progress**: 
+
+ Continued FreeCodeCamp's Javascript section ---> continued algorithms challenge
+ Continued React course CodeAcademy
+
+**Thoughts:** marathon...algorithm challenges in FCC are really hard...I always need to research and get help for some points.. However now I'm feeling it is pushing me to think harder!
+I also goofed around the web today to check some hello worlds from other programming languages. Do I want to go more into the back end side of things? Front end is feeling a lot like web design these days and that's something I don't feel I would like to do.
 
 **Link to work:**
 FCC Javascript section:https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string
