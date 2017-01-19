@@ -226,3 +226,17 @@ Looked again at ruby and rails....I think I'll invest.
 **Link to work:**
 Codepen: http://codepen.io/anadebarros/pen/XpNPLx
 
+### Day 18: January 18th 2017
+
+**Today's Progress**: 
+Studyed Ruby on Rails;
+Learned more hacker things with command line;
+Learned about HTML5 and geolocation APIs 
+
+
+**Thoughts:** I'm a bit confused on where to go and how to maintain my study line...
+
+**Link to work:**
+Codepen: https://codepen.io/anadebarros/pen/appwVm
+
+
