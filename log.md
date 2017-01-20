@@ -239,4 +239,26 @@ Learned about HTML5 and geolocation APIs
 **Link to work:**
 Codepen: https://codepen.io/anadebarros/pen/appwVm
 
+### Day 19: January 19th 2017
+
+**Today's Progress**: 
+Studyed a bit of python, just a flavour;
+Started PhP;
+COntinued FCC javascript algorithms.
+
+
+**Thoughts:** Continuing javascript but also starting to explore new languages.
+
+### Day 20: January 20th 2017
+
+**Today's Progress**: 
+Built a geolocation div using google maps geolocation API;
+Continued FCC JS algorithms;
+Continued PhP.
+
+**Thoughts:** Loved working with maps API
+
+**Link to work:**
+Codepen: https://codepen.io/anadebarros/pen/oBBwjY
+
 
