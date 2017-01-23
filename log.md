@@ -261,4 +261,27 @@ Continued PhP.
 **Link to work:**
 Codepen: https://codepen.io/anadebarros/pen/oBBwjY
 
+### Day 21: January 21st 2017
+
+**Today's Progress**: 
+Continued FCC JS algorithms;
+Continued PhP.
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 22: January 22nd 2017
+
+**Today's Progress**: 
+Started building a blog with PhP and CodeIgniter
+Continued FCC JS algorithms;
+
+
+**Thoughts:** 
+
+**Link to work:**
+
+
 
