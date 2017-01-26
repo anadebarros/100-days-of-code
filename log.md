@@ -279,9 +279,33 @@ Started building a blog with PhP and CodeIgniter
 Continued FCC JS algorithms;
 
 
+### Day 23: January 23nd 2017
+
+**Today's Progress**: 
+Worked a bit more on PhP project with codeigniter
+
+
 **Thoughts:** 
+I think this is actually a bit more advanced that I should be worrying right now...and getting into a phase when I'm not understanding it anymore
 
-**Link to work:**
+### Day 24: January 24nd 2017
 
+**Today's Progress**: 
+Started learning Python
+
+**Thoughts:** 
+I really like this language
+
+### Day 25: January 25nd 2017
+
+**Today's Progress**: 
+Continued learning Python
+Developed some Boostrap templates at school
+
+**Thoughts:**
+I want to learn more python!
+
+**Link to Work:**
+https://codepen.io/anadebarros/pen/YNxggy
 
 
