@@ -308,4 +308,30 @@ I want to learn more python!
 **Link to Work:**
 https://codepen.io/anadebarros/pen/YNxggy
 
+### Day 26: January 26nd 2017
+
+**Today's Progress**: 
+Continued learning Python
+
+**Thoughts:**
+I'm going to invest in python
+
+**Link to Work:**
+
+### Day 27: January 27nd 2017
+
+**Today's Progress**: 
+Continued learning Python
+
+### Day 28: January 25nd 2017
+
+**Today's Progress**: 
+Continued learning Python
+Finished some things on my personal website mainly CSS and Jquery stuff
+
+**Thoughts:**
+Can't wait to finish my personal website
+
+**Link to Work:**
+https://anadebarros.github.io/
 
