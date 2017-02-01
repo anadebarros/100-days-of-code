@@ -356,6 +356,14 @@ Pyhton is good
 
 **Today's Progress**: 
 Continued learning Python
+
+**Thoughts:**
+Python is good
+
+### Day 32: February 1st 2017
+
+**Today's Progress**: 
+Continued learning Python
 Started a Flask tutorial (finally starting to understand MVC in all its glory)
 jQuery workshop
 
