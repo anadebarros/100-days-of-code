@@ -323,7 +323,7 @@ I'm going to invest in python
 **Today's Progress**: 
 Continued learning Python
 
-### Day 28: January 25nd 2017
+### Day 28: January 28th 2017
 
 **Today's Progress**: 
 Continued learning Python
@@ -334,4 +334,31 @@ Can't wait to finish my personal website
 
 **Link to Work:**
 https://anadebarros.github.io/
+
+### Day 29: January 29th 2017
+
+**Today's Progress**: 
+Continued learning Python
+Jquery Workshop at school
+
+**Thoughts:**
+Pyhton is good
+
+### Day 30: January 30th 2017
+
+**Today's Progress**: 
+Continued learning Python
+
+**Thoughts:**
+Pyhton is good
+
+### Day 31: January 31st 2017
+
+**Today's Progress**: 
+Continued learning Python
+Started a Flask tutorial (finally starting to understand MVC in all its glory)
+jQuery workshop
+
+**Thoughts:**
+jQuery is good. Why did people all of a sudden decided to complicate their lives?...
 
