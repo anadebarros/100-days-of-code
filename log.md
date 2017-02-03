@@ -370,3 +370,20 @@ jQuery workshop
 **Thoughts:**
 jQuery is good. Why did people all of a sudden decided to complicate their lives?...
 
+### Day 33: February 2nd 2017
+
+**Today's Progress**: 
+Continued learning Python
+
+### Day 34: February 3rd 2017
+
+**Today's Progress**: 
+Continued learning Python
+Started Learning Django
+Finished updates on my personal website
+
+**Thoughts**
+Going to master Django!
+
+
+
