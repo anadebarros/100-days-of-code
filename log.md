@@ -385,5 +385,21 @@ Finished updates on my personal website
 **Thoughts**
 Going to master Django!
 
+### Day 35: February 4th 2017
 
+**Today's Progress**: 
+Continued learning Python
 
+### Day 36: February 5th 2017
+
+**Today's Progress**: 
+Continued Python
+
+### Day 37: February 6th 2017
+
+**Today's Progress**: 
+Continued learning Python
+Cleaned up code on personal website
+
+**Thoughts**
+First school project ready to submit!
