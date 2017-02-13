@@ -403,3 +403,67 @@ Cleaned up code on personal website
 
 **Thoughts**
 First school project ready to submit!
+
+### Day 38: February 7th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 39: February 8th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 40: February 9th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 41: February 10th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 41: February 10th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 42: February 11th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 43: February 12th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 44: February 13th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
