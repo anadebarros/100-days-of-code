@@ -467,3 +467,51 @@ MySQL +php
 
 **Thoughts**
 We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 45: February 14th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 46: February 15th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 47: February 16th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 48: February 17th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 49: February 18th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 50: February 19th 2017
+
+**Today's Progress**: 
+MySQL +php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
