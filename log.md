@@ -515,3 +515,30 @@ MySQL +php
 
 **Thoughts**
 We'll be here for a while so all my logs will be pretty much the same...
+
+### Day 51: February 20th 2017
+
+**Today's Progress**: 
+php
+
+**Thoughts**
+We'll be here for a while so all my logs will be pretty much the same...
+
+
+### Day 52: February 21th 2017
+
+**Today's Progress**: 
+Learned how to make AJAX + JSON request. Transformed PHP array into JSON format, and vice-versa.
+
+**Thoughts**
+I like AJAX requests, I like APIS, I like transforming PHP arrays into JSON.
+
+### Day 53: February 22th 2017
+
+**Today's Progress**: 
+Learned how to use Twitter's API to make posts using PHP. 
+
+**Thoughts**
+I liked it!
+
+
