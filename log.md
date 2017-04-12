@@ -533,7 +533,7 @@ Learned how to make AJAX + JSON request. Transformed PHP array into JSON format,
 **Thoughts**
 I like AJAX requests, I like APIS, I like transforming PHP arrays into JSON.
 
-### Day 53: February 22th 2017
+### Day 53: February 22nd 2017
 
 **Today's Progress**: 
 Learned how to use Twitter's API to make posts using PHP. 
@@ -541,4 +541,93 @@ Learned how to use Twitter's API to make posts using PHP.
 **Thoughts**
 I liked it!
 
+### Day 54: February 23rd 2017
+
+**Today's Progress**: 
+started my back-end php project. created several functions using @Twitter API & structured different php files
+
+### Day 55: February 24th 2017
+
+**Today's Progress**: 
+connected to database using PDO. Created forum using php
+
+### Day 56: February 25th 2017
+
+**Today's Progress**:
+decoded Google maps API lat+lng json->php array. Used vars in js function to display map depending on user's location
+
+### Day 57: February 26th 2017
+
+**Today's Progress**:
+advanced some more in php project. Helped gf with complex JavaScript code.
+
+### Day 58: February 27th 2017
+
+**Today's Progress**:
+advanced a bit on my php project, managed to insert data into db.
+
+### Day 59: February 28th 2017
+
+**Today's Progress**:
+got more stuff done for php web app, looking good
+
+### Day 60: March 1st 2017
+
+**Today's Progress**:
+php saga...
+
+### Day 61: March 2nd 2017
+
+**Today's Progress**:
+managed to dynamically display user's twitter feed and location using Twitter and Google maps Rest api's with php
+
+### Day 62: March 3rd 2017
+
+**Today's Progress**:
+learned how to create captchas and sessions and cookies
+
+### Day 63: March 4th 2017
+
+**Today's Progress**:
+further development of my php web app. Looking good!
+
+### Day 64: March 5th 2017
+
+**Today's Progress**:
+dove into OOP php and started studying WordPress theme development from scratch
+
+### Day 65: March 6th 2017
+
+**Today's Progress**:
+continued store with shopping cart using php. Also,got my first grade from front end project-> 18 out of 20, not bad!
+
+### Day 66: March 7th 2017
+
+**Today's Progress**:
+WordPress plugin dev->action and filter functions and wp shenanigans 
+
+### Day 67: March 8th 2017
+
+**Today's Progress**:
+Continued working on php app & learning about WordPress plugin dev
+
+### Day 68: March 9th 2017
+
+**Today's Progress**:
+Continued working on php app & learning about WordPress plugin dev
+
+### Day 69: March 10th 2017
+
+**Today's Progress**:
+continued register & login in php store. More on WordPress plugins
+
+### Day 70: March 11th 2017
+
+**Today's Progress**:
+further improvements on webapp-> dealing with errors, validating registrations and checking existing users in db 
+
+### Day 71: March 12th 2017
+
+**Today's Progress**:
+continued web app: try/catch db errors and improved front end development 
 
