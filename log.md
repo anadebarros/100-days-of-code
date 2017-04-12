@@ -631,3 +631,147 @@ further improvements on webapp-> dealing with errors, validating registrations a
 **Today's Progress**:
 continued web app: try/catch db errors and improved front end development 
 
+### Day 72: March 13th 2017
+
+**Today's Progress**:
+file upload and login in php
+
+### Day 73: March 14th 2017
+
+**Today's Progress**:
+worked on web app. Solved error after hours trying and almost lost mental sanity
+
+### Day 74: March 15th 2017
+
+**Today's Progress**:
+Got Twitter REST_APIs working with $_SESSION in webapp. Worked on AJAX requests and PHP 
+
+### Day 75: March 16th 2017
+
+**Today's Progress**:
+sticked to the theory today: made professor's php test (got 100%); read a bit of php: the missing manual 
+
+### Day 76: March 17th 2017
+
+**Today's Progress**:
+cleaned up web app code; practiced html5 & js
+
+### Day 77: March 18th 2017
+
+**Today's Progress**:
+read more php:the missing manual. Solved js algorithm 
+
+### Day 78: March 19th 2017
+
+**Today's Progress**:
+continued blog with cms for php web app
+
+### Day 79: March 20th 2017
+
+**Today's Progress**:
+html5 video, css3 transitions. Also worked but more on web app
+
+### Day 80: March 21th 2017
+
+**Today's Progress**:
+more work on web app - > blog is looking good, all files integrated so far.
+
+### Day 81: March 22th 2017
+
+**Today's Progress**:
+css3 animations and flexbox
+
+### Day 82: March 23th 2017
+
+**Today's Progress**:
+organized code in web app and started admin functionality 
+
+### Day 83: March 24th 2017
+
+**Today's Progress**:
+Finished UI/UX in dashboard functionality of webapp. Will start PHP logic during the weekend
+
+### Day 84: March 25th 2017
+
+**Today's Progress**:
+further work on web app: cms dashboard
+
+### Day 85: March 26th 2017
+
+**Today's Progress**:
+more work on web app. Php game starting to get strong
+
+### Day 86: March 27th 2017
+
+**Today's Progress**:
+more app development
+
+### Day 87: March 28th 2017
+
+**Today's Progress**:
+organized some stuff in web app
+
+### Day 88: March 29th 2017
+
+**Today's Progress**:
+CMS workshop. Worked with WordPress a bit
+
+### Day 89: March 30th 2017
+
+**Today's Progress**:
+ after an intense body combat class, dove into object oriented php
+ 
+### Day 90: March 31st 2017
+
+**Today's Progress**:
+web app keeps on going
+
+### Day 91: April 1st 2017
+
+**Today's Progress**:
+ optimized Mysql db & queries
+
+### Day 92: April 2nd 2017
+
+**Today's Progress**:
+more work on web app. Improved queries and fixed problem on my comments page
+
+### Day 93: April 3rd 2017
+
+**Today's Progress**:
+web app is almost over...
+
+### Day 94: April 4th 2017
+
+**Today's Progress**:
+stuck on Ajax requests with Php...
+
+### Day 95: April 1st 2017
+
+**Today's Progress**:
+optimized webs app.. Lots of work. Dwelling on Ajax requests
+
+### Day 96: April 5th 2017
+
+**Today's Progress**:
+a bit of work of web app, but kinda having a light day of code today
+
+### Day 97: April 6th 2017
+
+**Today's Progress**:
+solved Ajax requests on web app
+
+### Day 98: April 7th 2017
+
+**Today's Progress**:
+solving final issues with web app
+
+### Day 99: April 8th 2017
+
+**Today's Progress**:
+started Java in #codeacademy. Android classes fast approaching. 
+
+### Day 100: April 11th 2017
+
+**Today's Progress**:
+ finished Java in #codeacademy, looked at x-code. Mobile part of my course is now beginning.I've progressed a lot during these days and I'm grateful to the community for their support. Keep on going g everyone! Code everyday! 
